@@ -56,9 +56,9 @@ CSS - Cascading Style Sheets
 Why to Use - To format the layout of the webpages
 
 What we can do - With CSS we can contaorl the color, font, size of the text, 
-                 element position, backgrouns images, bg color
+                 element position, backgrouds images, bg color
 
-CSS can be added to HTML socument in 3 ways 
+CSS can be added to HTML document in 3 ways 
 
 Inline - by using "style attribute" inside HTML elements
 
